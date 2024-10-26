@@ -26,7 +26,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Mansi Gupta </b> graduated from <a href="http://www.ipu.ac.in/"> <b>Aryabhatta College University Of Delhi</b>, India </a>. <br>
+    Hello, I am Mansi Gupta </b> graduated from <a href="https://aryabhattacollege.ac.in/"> <b>Aryabhatta College University Of Delhi</b>, India </a>. <br>
     <b>a passionate learner and data storyteller</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Educator Transitioning into Data Science</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> I craft narratives from numbers,  
     transforming raw data into strategic insights that drive business growth. Like <b>an architect</b> designing a blueprint, 
     constructing data models using <b>machine learning</b>, <b>deep learning</b>, and <b>analytics</b>, building bridges between complex problems and actionable solutions. With <b>Python</b>, <b>SQL</b>, and visualization tools as my compass, 
